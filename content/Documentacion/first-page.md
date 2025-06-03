@@ -2,7 +2,7 @@
 title: Artículos
 type: Articulos
 prev: /
-next: Documentacion/Articulos/
+next: Documentacion/Recursos/
 ---
 
 A escribir.
