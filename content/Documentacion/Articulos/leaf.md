@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
-type: docs
-prev: docs/folder/
+title: Recurso 1
+type: Documentacion
+prev: Documentacion/Articulos/
 ---
 
-This page is under a folder.
+Primer recurso.

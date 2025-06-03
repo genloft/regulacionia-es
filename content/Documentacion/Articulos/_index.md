@@ -1,10 +1,10 @@
 ---
-title: Folder
-type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+title: Recursos
+type: Documentacion
+prev: Documentacion/first-page
+next: Documentacion/Recursos/inicio
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Seccion de recursos.
