@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Documentación
 next: first-page
 ---
 
