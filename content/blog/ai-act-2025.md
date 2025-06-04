@@ -35,6 +35,10 @@ También afecta a:
 3. Establecer políticas internas de gobernanza tecnológica
 4. Implementar mecanismos de trazabilidad y explicabilidad
 
+## Video explicativo
+
+{{< youtube s_rxOnCt3HQ >}}
+
 ## Conclusión
 
 Cumplir con el AI Act no es solo un requisito legal, sino una oportunidad para liderar con responsabilidad y ganar confianza de usuarios y clientes.
