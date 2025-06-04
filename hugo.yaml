@@ -61,3 +61,5 @@ params:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
     
+defaultContentLanguage: es
+languageCode: es-es
